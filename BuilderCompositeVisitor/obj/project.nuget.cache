@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RxSAiKthPhVQ4cuxj4ug9Pd4X6XYwrKUSjOZBHhoqLQ+whA5JXJKdOucORnC0zNetsdSlGdYpaaWp4VlSsKitA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tabar\\Desktop\\university\\ANUL 4\\SEMESTRUL II\\TMPS - Tehnici si Mecanisme de Proiectare Software\\Laboratoare\\Laboratories\\BuilderCompositeVisitor\\BuilderCompositeVisitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tabar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

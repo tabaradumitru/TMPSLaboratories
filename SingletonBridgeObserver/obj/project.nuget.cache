@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bwft+KVIJBMJh/45Gcfl0bJCYOi2ngAq/KDF7VAfsbdCfKD3v3X7FWcm8dEzfe+HIgUWaDnB8z4H0PgGBdt7Nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tabar\\Desktop\\university\\ANUL 4\\SEMESTRUL II\\TMPS - Tehnici si Mecanisme de Proiectare Software\\Laboratoare\\Laboratories\\SingletonBridgeObserver\\SingletonBridgeObserver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tabar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4dt8N5LCDhulajTgzEsTW2Ug8VJiSqVyMT/5Gsv0oM4pb7RG5l1WWHbltOtYuCiFFaI08yt6JMWEuJ+2cMvjFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tabar\\Desktop\\university\\ANUL 4\\SEMESTRUL II\\TMPS - Tehnici si Mecanisme de Proiectare Software\\Laboratoare\\Laboratories\\PrototypeDecoratorChainOfResponsibility\\PrototypeDecoratorChainOfResponsibility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tabar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

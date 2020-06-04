@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderCompositeVisitor", "BuilderCompositeVisitor\BuilderCompositeVisitor.csproj", "{51A7E89C-A5AD-4EB7-AD15-2B9308BC7FFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonBridgeObserver", "SingletonBridgeObserver\SingletonBridgeObserver.csproj", "{1BDBD3F5-3588-4282-A9CF-8097CC25CF8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeDecoratorChainOfResponsibility", "PrototypeDecoratorChainOfResponsibility\PrototypeDecoratorChainOfResponsibility.csproj", "{A6BAEFAE-DFCB-407A-BD50-9242C392BA28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51A7E89C-A5AD-4EB7-AD15-2B9308BC7FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A7E89C-A5AD-4EB7-AD15-2B9308BC7FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A7E89C-A5AD-4EB7-AD15-2B9308BC7FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A7E89C-A5AD-4EB7-AD15-2B9308BC7FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BDBD3F5-3588-4282-A9CF-8097CC25CF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDBD3F5-3588-4282-A9CF-8097CC25CF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDBD3F5-3588-4282-A9CF-8097CC25CF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDBD3F5-3588-4282-A9CF-8097CC25CF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6BAEFAE-DFCB-407A-BD50-9242C392BA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BAEFAE-DFCB-407A-BD50-9242C392BA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BAEFAE-DFCB-407A-BD50-9242C392BA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BAEFAE-DFCB-407A-BD50-9242C392BA28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
